@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Wat-ch</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="bus_selection_item">Вибір маршрутки</string>
+    <string name="settings_item">Налаштування</string>
+    <string name="feedback_item">Зворотній зв\'язок</string>
+    <string name="about_item">Про програму</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_volume">Гучність голосових повідомлень</string>
+    <string name="wat_ch">Wat-ch</string>
+    <string name="vita_kusinya_gmail_com">vita.kusinya@gmail.com</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Detect Text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Text read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sing_in">Sing In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_pass">Forgot your password?</string>
+    <string name="not_reg">Not registered? SingUp Now!</string>
+    <string name="sing_up">Register Form</string>
+    <string name="already_reg">Already registered? Login Me!</string>
+    <string name="reset">Reset Password</string>
+    <string name="Back">Back</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up
+    </string>
+    <string name="email_is_empty">Enter Email</string>
+    <string name="password_is_empty">Enter Password</string>
+    <string name="password_to_short">Password to short</string>
+    <string name="navigation">Navigation</string>
+    <string name="open_navigation">Open navigation drawer</string>
+    <string name="close_navigation">Close navigation drawer</string>
+    <string name="drawer">Drawer</string>
+    <string name="scan_with_camera">Scanning with camera</string>
+    <string name="show_list_rooms">Show all rooms</string>
+    <string name="title_group">Manager Rooms</string>
+    <string name="create_room">Create Room</string>
+    <string name="title_connectRoom">Connect to Room</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="reset_password">Reset Password to Email</string>
+    <string name="delete_user">Delete User</string>
+    <string name="sing_out">Sing Out</string>
+    <string name="setting_change">Change</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="email_update">"Email address is updated. Please sign in with new email id!"</string>
+    <string name="failed_update_email">"Failed to update email!"</string>
+    <string name="pass_update">Password is updated. Please sign in with new email id!</string>
+    <string name="pass_update_fail">Failed to update password!</string>
+    <string name="send_reset">"We have sent you instructions to reset your password!"</string>
+    <string name="failed_reset">"Failed to send reset email!"</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add BarCode</string>
+    <string name="scan">Scan with Camera</string>
+    <string name="enter_barcode">Enter Barcode</string>
+    <string name="enter">Enter</string>
+    <string name="room_was_create">Room was created</string>
+    <string name="name">Name</string>
+    <string name="only_ean_13">"Sorry, but now we scan only EAN-13"</string>
+    <string name="enter_name_card">"Enter name Card"</string>
+    <string name="enter_category">"Enter Category"</string>
+    <string name="first_room">"Firs create room"</string>
+    <string name="card_add">"Card Was Add"</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_room">Add Room</string>
+    <string name="user_not">"User Not Found"</string>
+    <string name="room_not">Room not found</string>
+    <string name="password_incorrect">"Password invalid"</string>
+    <string name="room_added">Room was added</string>
+    <string name="add_room_first">"First add room" </string>
+    <string name="add_card_first">"First add card" </string>
+</resources>

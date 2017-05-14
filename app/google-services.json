@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189803787187",
+    "firebase_url": "https://wat-ch.firebaseio.com",
+    "project_id": "wat-ch",
+    "storage_bucket": "wat-ch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189803787187:android:94fd7f30501bfe1d",
+        "android_client_info": {
+          "package_name": "com.example.vita.wat_ch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189803787187-5jnkuq15p4cbolbsm44gqtcb4ja66ap9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vita.wat_ch",
+            "certificate_hash": "88f967ad6595bb11e6bc2d268016ebc095ca30bf"
+          }
+        },
+        {
+          "client_id": "189803787187-a1on0vrhb03fbm07hln457jo2h8nh5nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXn6orx0KTJeYmQDkau4XYjje5ppI43iI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189803787187-a1on0vrhb03fbm07hln457jo2h8nh5nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
